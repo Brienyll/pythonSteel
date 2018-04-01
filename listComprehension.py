@@ -10,3 +10,7 @@ name = "brix"
 nam = [char.upper() for char in name]
 
 print(nam)
+
+cubes = [i**3 for i in range(5)]
+
+print(cubes)
